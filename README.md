@@ -32,6 +32,4 @@ npm start
 npm run dev
 ```
 
-## Postman Collection
-
-En la raíz del proyecto encontrarán el archivo `Proyecto Final.postman_collection.json` que les permitirá probar desde postman los endpoint del servicio.
+## https://railways-deploy-proyectofinal3-production.up.railway.app/chat
